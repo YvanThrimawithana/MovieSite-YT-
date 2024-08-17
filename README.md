@@ -1,3 +1,5 @@
+#Credits to  @adrianhajdin for the project (https://www.youtube.com/watch?v=b9eMGE7QtTk&t=380s)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
