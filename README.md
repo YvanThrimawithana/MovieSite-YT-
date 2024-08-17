@@ -1,4 +1,7 @@
-#Credits to  @adrianhajdin for the project (https://www.youtube.com/watch?v=b9eMGE7QtTk&t=380s)
+# Credits
+
+Credits to [Adrian Hajdin](https://github.com/adrianhajdin) for the project tutorial. You can check out the original content [here](https://www.youtube.com/watch?v=b9eMGE7QtTk&t=380s).
+
 
 # Getting Started with Create React App
 
